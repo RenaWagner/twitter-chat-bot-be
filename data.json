@@ -86,7 +86,37 @@
   },
   {
     "id": 18,
-    "quote": "You've got this!",
+    "quote": "From little acorns mighty oaks do grow.",
+    "imageSource": "https://images.unsplash.com/photo-1593642532009-6ba71e22f468?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2069&q=80"
+  },
+  {
+    "id": 19,
+    "quote": "Growth itself contains the germ of happiness.",
+    "imageSource": "https://images.unsplash.com/photo-1593642532009-6ba71e22f468?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2069&q=80"
+  },
+  {
+    "id": 20,
+    "quote": "Each day provides its own gifts.",
+    "imageSource": "https://images.unsplash.com/photo-1593642532009-6ba71e22f468?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2069&q=80"
+  },
+  {
+    "id": 21,
+    "quote": "Today is the tomorrow you worried about yesterday.  ",
+    "imageSource": "https://images.unsplash.com/photo-1593642532009-6ba71e22f468?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2069&q=80"
+  },
+  {
+    "id": 22,
+    "quote": "Fortune favours the brave.",
+    "imageSource": "https://images.unsplash.com/photo-1593642532009-6ba71e22f468?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2069&q=80"
+  },
+  {
+    "id": 23,
+    "quote": "You're never a loser until you quit trying.",
+    "imageSource": "https://images.unsplash.com/photo-1593642532009-6ba71e22f468?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2069&q=80"
+  },
+  {
+    "id": 24,
+    "quote": "Patience is the companion of wisdom.",
     "imageSource": "https://images.unsplash.com/photo-1593642532009-6ba71e22f468?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2069&q=80"
   }
 ]
